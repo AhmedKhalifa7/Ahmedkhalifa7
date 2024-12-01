@@ -2,7 +2,7 @@
 ---
 ### Hi there! I'm Ahmed Hussein
 
-I'm an **Electrical and Electronic Engineering student**, a **Robotics enthusiast**, and an aspiring **Robotics Engineer**. I’m all about building robots designs, solving problems, and inspsiring the next generation of Innovation
+I'm an **Electrical and Electronic Engineering student**, a **Robotics enthusiast**, and an aspiring **Robotics Engineer**. I’m all about building robot designs, solving problems, and inspsiring the next generation of Innovation
 
 ---
 ### About Me!
@@ -30,5 +30,6 @@ I'm an **Electrical and Electronic Engineering student**, a **Robotics enthusias
 ### Lets Connect  
 Whether you're into robotics, STEM education, or just love geeking out over tech, let’s team up and make something awesome!  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://sd.linkedin.com/in/ahmed-khalifa-13b836233)
-[![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20Github)
-> ### *Dream big, build bigger*🚀✨
+[![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)
+>*Dream Big . . . Build Bigger* 
+![](9424c4c89a3a37536d05df7cf7d48e25.gif)

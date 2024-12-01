@@ -2,12 +2,12 @@
 
 > I'm an **Electrical and Electronic Engineering student**, a **Robotics enthusiast**, and an aspiring **Robotics Engineer**. I’m all about building cool stuff, solving problems, and inspiring the next generation of innovators.  
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCCF4VJaEZfAmJ2TUbG38OP3nnz0QeNTeCg&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCCF4VJaEZfAmJ2TUbG38OP3nnz0QeNTeCg&https://i.pinimg.com/originals/53/4e/f3/534ef3554088173d553f4c5a1535a1f6.gif)
 ---
 
 ## About Me  
 
-- 🤖 **FIRST Global Mentor** | Guiding and inspiring young roboticists.  
+- 🤖 **FIRST Global Alumni & Mentor** | Guiding and inspiring young roboticists.  
 - ⚡ **Engineer in the Making** | Exploring circuits, automation, and tech.
 - 📚 **STEM Advocate** | Empowering minds with science and technology.  
 - 🌍 **Visionary** | Shaping the future of robotics and innovation in Sudan.

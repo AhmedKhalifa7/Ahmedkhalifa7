@@ -6,7 +6,6 @@
 <!------I think one # is too big -->
 <!--- The setext will take more space and it will ruin the format 😂-->
 <!---used pocutuation ! because it looks fun -->
-
 Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs, solving problems.
 
@@ -21,7 +20,7 @@ All about building robot designs, solving problems.
 
 ### My Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)

@@ -2,7 +2,7 @@
 
 > I'm an **Electrical and Electronic Engineering student**, a **Robotics enthusiast**, and an aspiring **Robotics Engineer**. I’m all about building cool stuff, solving problems, and inspiring the next generation of innovators.  
 
-![](https://pin.it/2EAaUQUyY)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCCF4VJaEZfAmJ2TUbG38OP3nnz0QeNTeCg&s)
 ---
 
 ## About Me  

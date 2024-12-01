@@ -4,19 +4,18 @@
 ## Hi there! I'm Ahmed Hussein
 
 <!------I think one # is too big -->
-<!--- The setext will take more space and it will ruin my format 😂-->
+<!--- The setext will take more space and it will ruin the format 😂-->
 <!---used pocutuation ! because it looks fun -->
 
-**Robotics enthusiast** and an aspiring **Robotics Engineer**.
+Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs, solving problems.
 
 ### About Me!
 
 <!--- used pocutuation ! because it looks fun-->
-
-* 🤖 **FIRST Global Alumni & Mentor** | Guiding and inspiring young roboticists.
-* ⚡ **Electrical and Electronic Engineering student** | Exploring circuits, automation, and tech.
-* 🔭 **STEM Advocate** | Empowering minds with science and technology.
+* 🤖**FIRST Global Alumni & Mentor**| Guiding and inspiring young roboticists.
+* ⚡**Electrical and Electronic Engineering student** | Exploring circuits, automation, and tech.
+* 🔭**STEM Advocate** | Empowering minds with science and technology.
 
 ---
 
@@ -30,7 +29,6 @@ All about building robot designs, solving problems.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![VEX](https://img.shields.io/badge/VEX-red?style=for-the-badge&logo=Vex&logoColor=Gray&link=https://images.app.goo.gl/dAy21YrxwZXkjLKL7)](https://images.app.goo.gl/dAy21YrxwZXkjLKL7)
 [![REV](https://img.shields.io/badge/REV-black?style=for-the-badge&logo=REV&logoColor=orange&link=https://banner2.cleanpng.com/20180418/fjw/kisspng-first-tech-challenge-first-robotics-competition-fo-robotics-5ad6cb02149017.5763565615240261140842.jpg)](https://banner2.cleanpng.com/20180418/fjw/kisspng-first-tech-challenge-first-robotics-competition-fo-robotics-5ad6cb02149017.5763565615240261140842.jpg)
-
 
 ### Learning
 

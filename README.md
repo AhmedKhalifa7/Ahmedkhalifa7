@@ -27,7 +27,7 @@ All about building robot designs, solving problems.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 [![VEX](https://img.shields.io/badge/VEX-red?style=for-the-badge&logo=Vex&logoColor=Gray&link=https://images.app.goo.gl/dAy21YrxwZXkjLKL7)](https://images.app.goo.gl/dAy21YrxwZXkjLKL7)
-[![REV](https://img.shields.io/badge/REV-black?style=for-the-badge&logo=REV&logoColor=orange&link=https://banner2.cleanpng.com/20180418/fjw/kisspng-first-tech-challenge-first-robotics-competition-fo-robotics-5ad6cb02149017.5763565615240261140842.jpg)](https://banner2.cleanpng.com/20180418/fjw/kisspng-first-tech-challenge-first-robotics-competition-fo-robotics-5ad6cb02149017.5763565615240261140842.jpg)
+[![REV](https://img.shields.io/badge/REV-black?style=for-the-badge&logoColor=white&link=https://images.app.goo.gl/dAy21YrxwZXkjLKL7)](https://images.app.goo.gl/dAy21YrxwZXkjLKL7)
 
 ### Learning
 

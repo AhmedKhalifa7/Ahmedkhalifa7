@@ -13,7 +13,7 @@ All about building robot designs, solving problems.
 
 <!--- used pocutuation ! because it looks fun-->
 * 🤖**FIRST Global Alumni & Mentor**| Guiding and inspiring young roboticists.
-* ⚡**Electrical and Electronic Engineering student** | Exploring circuits, automation, and tech.
+* ⚡**Electrical & Electronic Engineering student** | Exploring circuits and automation.
 * 🔭**STEM Advocate** | Empowering minds with science and technology.
 
 ---

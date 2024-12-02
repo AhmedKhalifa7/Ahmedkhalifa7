@@ -8,7 +8,7 @@
 applied this to all setext-->
 <!---used pocutuation ! because it looks fun -->
 Robotics enthusiast and an aspiring Robotics Engineer.
-All about building robot designs, solving problems.
+All about building robot designs and problem-solving.
 
 ### About Me!
 

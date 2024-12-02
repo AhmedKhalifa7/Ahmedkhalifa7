@@ -38,7 +38,7 @@ All about building robot designs, solving problems.
 
 ### Lets Connect
 
-Whether you're into robotics, STEM education, or just love geeking out over tech, let’s team up and make something awesome!
+Whether you're into robotics, STEM education, or just love geeking out over tech, let’s team up!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://sd.linkedin.com/in/ahmed-khalifa-13b836233)
 [![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)

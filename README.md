@@ -4,7 +4,8 @@
 ## Hi there! I'm Ahmed Hussein
 
 <!------I think one # is too big -->
-<!--- The setext will take more space and it will ruin the format 😂-->
+<!--- The setext will take more space and it will ruin the format
+applied this to all setext-->
 <!---used pocutuation ! because it looks fun -->
 Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs, solving problems.
@@ -38,7 +39,7 @@ All about building robot designs, solving problems.
 
 ### Lets Connect
 
-Whether you're into robotics, STEM education, or just love geeking out over tech, let’s team up!
+Whether you're into robotics, STEM or just love automation, let’s team up!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://sd.linkedin.com/in/ahmed-khalifa-13b836233)
 [![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)

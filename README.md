@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=10&color=00F72F&width=435&lines=Loading+.+.+.;Welcome!)](https://git.io/typing-svg)
----
+===
 
 ## Hi there! I'm Ahmed Hussein
 
@@ -12,14 +12,16 @@ All about building robot designs and problem-solving.
 
 ### About Me!
 
+---
+
 <!--- used pocutuation ! because it looks fun-->
 * 🤖**FIRST Global Alumni & Mentor**| Guiding and inspiring young roboticists.
 * ⚡**Electrical & Electronic Engineering student** | Exploring circuits and automation.
 * 🔭**STEM Advocate** | Empowering minds with science and technology.
 
----
-
 ### My Skills
+
+---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,18 +34,20 @@ All about building robot designs and problem-solving.
 
 ### Learning
 
+---
+
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
 ### Lets Connect
+
+---
 
 Whether you're into robotics, STEM or just love automation, let’s team up!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://sd.linkedin.com/in/ahmed-khalifa-13b836233)
 [![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)
 
->*Dream Big . . . Build Bigger*
+>*Dream Big . . . Build Bigger!*
 
 ![city gif](9424c4c89a3a37536d05df7cf7d48e25.gif)

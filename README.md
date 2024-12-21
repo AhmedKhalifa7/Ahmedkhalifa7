@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4500&color=00F72F&width=435&lines=Loading+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=10&color=00F72F&width=435&lines=Loading+.+.+.;Welcome!)](https://git.io/typing-svg)
 ---
 
 ## Hi there! I'm Ahmed Hussein

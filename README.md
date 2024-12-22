@@ -3,9 +3,6 @@
 Hi there! I'm Ahmed Hussein
 ---
 
-<!------I think one # is too big -->
-<!--- The setext will take more space and it will ruin the format
-applied this to all setext-->
 <!---used pocutuation ! because it looks fun -->
 Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs and problem-solving.
@@ -37,6 +34,7 @@ Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Lets Connect
+
 ---
 
 Whether you're into robotics, STEM or just love automation, let’s team up!

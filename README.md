@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=10&color=00F72F&width=435&lines=Loading+.+.+.;Welcome!)](https://git.io/typing-svg)
-===
 
-## Hi there! I'm Ahmed Hussein
+Hi there! I'm Ahmed Hussein
+---
 
 <!------I think one # is too big -->
 <!--- The setext will take more space and it will ruin the format
@@ -10,8 +10,7 @@ applied this to all setext-->
 Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs and problem-solving.
 
-### About Me!
-
+About Me!
 ---
 
 <!--- used pocutuation ! because it looks fun-->
@@ -19,8 +18,7 @@ All about building robot designs and problem-solving.
 * ⚡**Electrical & Electronic Engineering student** | Exploring circuits and automation.
 * 🔭**STEM Advocate** | Empowering minds with science and technology.
 
-### My Skills
-
+My Skills
 ---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,15 +30,13 @@ All about building robot designs and problem-solving.
 [![VEX](https://img.shields.io/badge/VEX-red?style=for-the-badge&logo=Vex&logoColor=Gray&link=https://images.app.goo.gl/dAy21YrxwZXkjLKL7)](https://images.app.goo.gl/dAy21YrxwZXkjLKL7)
 [![REV](https://img.shields.io/badge/REV-black?style=for-the-badge&logoColor=white&link=https://images.app.goo.gl/dAy21YrxwZXkjLKL7)](https://images.app.goo.gl/dAy21YrxwZXkjLKL7)
 
-### Learning
-
+Learning
 ---
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Lets Connect
-
 ---
 
 Whether you're into robotics, STEM or just love automation, let’s team up!

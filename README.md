@@ -7,10 +7,9 @@ Hi there! I'm Ahmed Hussein
 Robotics enthusiast and an aspiring Robotics Engineer.
 All about building robot designs and problem-solving.
 
-About Me!
+About Me
 ---
 
-<!--- used pocutuation ! because it looks fun-->
 * 🤖**FIRST Global Alumni & Mentor**| Guiding and inspiring young roboticists.
 * ⚡**Electrical & Electronic Engineering student** | Exploring circuits and automation.
 * 🔭**STEM Advocate** | Empowering minds with science and technology.
@@ -33,8 +32,7 @@ Learning
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Lets Connect
-
+Lets Connect
 ---
 
 Whether you're into robotics, STEM or just love automation, let’s team up!

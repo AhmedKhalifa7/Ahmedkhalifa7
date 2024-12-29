@@ -10,9 +10,9 @@ All about building robot designs and problem-solving.
 About Me
 ---
 
-* 🤖**FIRST Global Alumni & Mentor**
-* ⚡**Electrical & Electronic Engineering student**
-* 🔭**STEM Instructor**
+* **FIRST Global Alumni & Mentor** 🤖
+* **Electrical & Electronic Engineering student** ⚡
+* **STEM Instructor** 🔭
 
 My Skills
 ---

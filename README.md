@@ -43,3 +43,7 @@ Whether you're into robotics, STEM or just love automation, let’s team up!
 >*Dream Big . . . Build Bigger!*
 
 ![city gif](9424c4c89a3a37536d05df7cf7d48e25.gif)
+
+<!--><p align="center">
+  <img src="9424c4c89a3a37536d05df7cf7d48e25.gif" alt="animated" />
+  </p><!-->

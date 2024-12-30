@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="280" src="8862716333e57a67d592694c068c1ca1.gif">
+  </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=10&color=00F72F&width=435&lines=Loading+.+.+.;Welcome!)](https://git.io/typing-svg)
 
 Hi there! I'm Ahmed Hussein
@@ -41,9 +45,3 @@ Whether you're into robotics, STEM or just love automation, let’s team up!
 [![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)
 
 >*Dream Big . . . Build Bigger!*
-
-![city gif](9424c4c89a3a37536d05df7cf7d48e25.gif)
-
-<!--><p align="center">
-  <img src="9424c4c89a3a37536d05df7cf7d48e25.gif" alt="animated" />
-  </p><!-->

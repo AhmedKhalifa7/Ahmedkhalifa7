@@ -1,6 +1,8 @@
 <p align="center">
-  <img width="460" height="280" src="8862716333e57a67d592694c068c1ca1.gif">
+  <img width="500" height="280" src="aa9188eb3eeb7484fed598012fe70d83.gif"
+  alt="Alternate text">
   </p>
+  <!--I used HTML code to center the gif-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=10&color=00F72F&width=435&lines=Loading+.+.+.;Welcome!)](https://git.io/typing-svg)
 

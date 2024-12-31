@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="280" src="aa9188eb3eeb7484fed598012fe70d83.gif"
+  <img width="500" height="280" src="8862716333e57a67d592694c068c1ca1.gif"
   alt="Alternate text">
   </p>
   <!--I used HTML code to center the gif-->

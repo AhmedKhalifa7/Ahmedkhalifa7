@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&size=28&duration=1500&pause=1000&color=67B9F7&width=435&lines=Hi+!;I'm+Ahmed+Hussein)](https://git.io/typing-svg)
 ---
 
-<img width="180" height="100" src="8862716333e57a67d592694c068c1ca1.gif" align="right">
+<img width="230" height="130" src="8862716333e57a67d592694c068c1ca1.gif" align="right">
 <!--I used HTML code to algin gif-->
 
 Robotics enthusiast and an aspiring Robotics Engineer.

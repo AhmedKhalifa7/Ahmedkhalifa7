@@ -1,10 +1,6 @@
-<p align="center">
-  <img width="500" height="280" src="8862716333e57a67d592694c068c1ca1.gif"
-  alt="Alternate text">
-  </p>
-  <!--I used HTML code to center the gif-->
+![gif](5c041234041149e7d14b21986f8c5dc8.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&size=28&duration=1500&pause=1000&color=67B9F7&width=435&lines=Hi+!;I'm+Ahmed+Hussein)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&size=28&duration=1500&pause=1000&color=44F7F6FF&width=435&lines=Hi+!;I'm+Ahmed+Hussein)](https://git.io/typing-svg)
 ---
 
 Robotics enthusiast and an aspiring Robotics Engineer.
@@ -43,7 +39,6 @@ Whether you're into robotics, STEM or just love automation, let’s team up!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://sd.linkedin.com/in/ahmed-khalifa-13b836233)
 [![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.k.hussein01@gmail.com?subject=Hello%20Ileri,%20From%20*GithubGithub)
 
-<br>
-<!-- I used HTML code to leave a blank line-->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&size=28&duration=1800&pause=1000&color=67B9F7&center=true&width=435&lines=Dream+big+.+.+.;Build+Bigger+!)](https://git.io/typing-svg)
+\
+\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aldrich&size=28&duration=1800&pause=1000&color=44F7F6FF&center=true&width=435&lines=Dream+big+.+.+.;Build+Bigger+!)](https://git.io/typing-svg)
